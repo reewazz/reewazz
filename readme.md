@@ -37,7 +37,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nestjs-original.svg" height="50" alt="nestjs logo" />
+    <img src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png" height="50" alt="nestjs logo" />
     <img width="15" />
 </div>
 
