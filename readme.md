@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Riwaj Neupane, a recent graduate diving deep into the world of web development. 🚀</p>
+<p align="left">I'm Riwaj Neupane, diving deep into the world of web development. 🚀</p>
 
 ###
 <h2 align="left">About Me</h2>
